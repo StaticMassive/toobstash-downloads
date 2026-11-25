@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- The Toob Stash app icon: a tube television with a download arrow on its screen (logo A, chosen 2026-11-24). -->
+  <g transform="translate(100 100) scale(8.24)">
+    <rect width="100" height="100" rx="22" fill="#262b35"/>
+    <path d="M50 30 36 15M50 30 64 15" stroke="#e8ecf3" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="36" cy="15" r="3" fill="#e8ecf3"/>
+    <circle cx="64" cy="15" r="3" fill="#e8ecf3"/>
+    <rect x="16" y="28" width="68" height="54" rx="15" fill="#e8ecf3"/>
+    <rect x="23" y="35" width="44" height="40" rx="10" fill="#14171c"/>
+    <path d="M45 44v15m-7-7 7 7 7-7M37 67h16" fill="none" stroke="#5b8def" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="75.500" cy="45" r="3.500" fill="#14171c"/>
+    <circle cx="75.500" cy="57" r="3.500" fill="#14171c"/>
+    <path d="M29 82l-3 6M71 82l3 6" stroke="#e8ecf3" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
